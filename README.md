@@ -6,6 +6,8 @@ _We tell you the effect of real world events on crypto before the market reacts.
 
 Please view the demo below!
 
+https://github.com/user-attachments/assets/a08a53e1-6ef9-45db-b7e5-576d650c4d06
+
 Website:
 * [Landing Page](https://preview--foresight-crypto-dashboard.lovable.app/)
 * [Dashboard](https://preview--foresight-crypto-dashboard.lovable.app/dashboard)
