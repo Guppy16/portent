@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "portent"
+version = "0.0.1"
+authors = [{ name = "portent", email = "support@apta.chat" }]
+dependencies = [
+    "requests",
+    "pydantic",
+    "pydantic-settings",
+    "openai",
+    "PyYAML",
+    "ipython",
+    "numpy",
+    "tqdm",
+    "python-dotenv",
+    "pandas",
+    "plotly",
+]
+
+
+[tool.hatch.build.targets.wheel]
+packages = ["portent"]

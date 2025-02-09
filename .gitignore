@@ -12,3 +12,5 @@ typechain-types
 
 
 .DS_Store
+.venv
+.archive
