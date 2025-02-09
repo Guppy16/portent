@@ -1,12 +1,14 @@
 # portent
 
+_We tell you the effect of real world events on crypto before the market reacts. Enabling you to manage your portfolio with foresight and trade more profitably._
 
 ### Demo
 
 Please view the demo below!
 
-
-If the website is still up, you may see it here:
+Website:
+* [Landing Page](https://preview--foresight-crypto-dashboard.lovable.app/)
+* [Dashboard](https://preview--foresight-crypto-dashboard.lovable.app/dashboard)
 
 
 ### Eth Oxford 2025 Hackathon
@@ -25,3 +27,7 @@ We are looking to launch this as a vertical and focus on the following:
   - Reliable and secure price history from _Flare_
   - Curate diverse news sources and store the data on _BNB Greenfield_
   - Integrate this with our conversational AI meta agent
+
+### Further Reading
+
+We have more detailed notes about our processes and setup in the [notes.md](notes.md) file.
