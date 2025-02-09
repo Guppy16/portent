@@ -1,0 +1,4 @@
+[submodule "flare-hardhat-starter"]
+	path = flare-hardhat-starter
+	url = git@github.com:Guppy16/flare-hardhat-starter.git
+	branch = feat/portent
